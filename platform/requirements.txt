@@ -1,0 +1,7 @@
+gradio>=3.50
+torch
+torchvision
+timm
+segmentation-models-pytorch
+Pillow
+numpy
